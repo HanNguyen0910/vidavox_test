@@ -1,0 +1,14 @@
+[
+    {
+        "image": "page_27_img_0.png",
+        "description": "The image is a flowchart titled \"Pohon Keputusan Pemecahan Masalah,\" which translates to \"Decision Tree for Problem Solving.\" It outlines a decision-making process regarding a robot that is not charging correctly. \n\nHere\u2019s a brief overview of its structure:\n\n- It begins with \"Mulai\" (Start).\n- The first decision question is about whether the robot is charging (\"Robot tidak mengisi daya?\").\n  - If \"Yes,\" it suggests checking the power doc (\"Periksa daya dok\").\n  - If \"No,\" it checks if the power is good (\"Daya baik?\").\n    - If \"Yes,\" the process concludes with \"Selesai\" (Finished).\n    - If \"No,\" it prompts to check the battery health (\"Periksa kesehatan baterai\").\n      - If the battery needs changing (\"Baterai diganti?\"), it leads to that action.\n- There are also steps to contact support if needed.\n\nOverall, it provides a systematic approach to troubleshoot issues related to the robot's charging."
+    },
+    {
+        "image": "page_13_img_0.png",
+        "description": "The image is a bar graph titled \"Efektivitas Mode Pembersihan berdasarkan Permukaan,\" which translates to \"Effectiveness of Cleaning Modes Based on Surface\". \n\nIt displays three types of surfaces: \"Kayu\" (Wood), \"Ubin\" (Tile), and \"Karpet\" (Carpet). Each surface has three bars representing different cleaning modes: \n\n- **Standar** (Standard) shown in orange\n- **Turbo** (Turbo) shown in red\n- **Hening** (Quiet) shown in yellow\n\nThe y-axis represents effectiveness in percentage, ranging from 0% to 100%. The bars compare the effectiveness of each cleaning mode across the different surfaces."
+    },
+    {
+        "image": "page_1_img_0.png",
+        "description": "The image contains text that reads \"Smart Clean X5 PETUNJUK PENGGUNA.\" The phrase \"PETUNJUK PENGGUNA\" translates to \"User Instructions\" or \"User Guide\" in English, suggesting that this is related to a product called Smart Clean X5."
+    }
+]
